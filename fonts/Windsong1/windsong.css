@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'WindsongRegular';
+    src: url('windsong.eot');
+    src: url('windsong.eot') format('embedded-opentype'),
+         url('windsong.woff') format('woff'),
+         url('windsong.ttf') format('truetype'),
+         url('windsong.svg#WindsongRegular') format('svg');
+}
